@@ -1,4 +1,4 @@
-# Gender, Mental Illness and Crime in the United States - An Analysis
+# Mental Illness, Gender and Crime in the United States - An Analysis
 This is a final project for the course "Exploratory Data Analysis". 
 
 ## The Project

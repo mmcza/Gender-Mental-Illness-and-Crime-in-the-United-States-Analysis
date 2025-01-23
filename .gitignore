@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 /.idea
 27521-0001-Data.tsv
+/ICPSR_27521-V1
